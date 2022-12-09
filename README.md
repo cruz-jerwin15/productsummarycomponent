@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Gitbub](https://github.com/cruz-jerwin15/productsummarycomponent.git)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://productsummarycomponent.vercel.app/)
 
 ## My process
 
